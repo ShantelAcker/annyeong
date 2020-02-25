@@ -83,6 +83,7 @@ section {
 
 .copyright {
     position: relative;
-    left: 150%;
+    left: 64vw;
     font-size: .7em;
+    top: 70vh;
 }
